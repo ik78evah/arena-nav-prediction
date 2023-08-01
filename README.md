@@ -3,7 +3,7 @@
 # Nav-Prediction 
 This repository provides the code used in our paper [Predicting Navigational Performance of Obstacle Avoidance Approaches Using Deep Neural Networks]().
 It provides tools to record navigation metrics and predict the navigation performance of planners. [Link to demo video.](https://drive.google.com/file/d/1xCTtjEbTU5NXrfO4iZkjEdgVRJIdMAjv/view?usp=share_link)
-
+To run this tool the following Arena Benchmark infrastructure is required: https://github.com/ignc-research/nav-prediction.
 
 - [Training Pipeline](#training-pipeline)
 - [Running the Pipeline](#running-the-pipeline)
