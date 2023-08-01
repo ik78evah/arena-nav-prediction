@@ -12,7 +12,7 @@ It provides tools to record navigation metrics and predict the navigation perfor
 
 ---
 ## Training Pipeline
-<img src="/docs/imgs/trainning_pipeline.png">
+![trainning_pipeline](https://github.com/ik78evah/arena-nav-prediction/assets/73646817/48ffbfc8-160b-4c66-bb5b-26fa75a01a9b)
 Our pipeline consists of four main modules and neural networks:
 
 - Map-Generator: 
