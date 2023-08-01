@@ -1,6 +1,5 @@
 
 ![](http://img.shields.io/badge/stability-stable-orange.svg?style=flat)
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 # Nav-Prediction 
 This repository provides the code used in our paper [Predicting Navigational Performance of Obstacle Avoidance Approaches Using Deep Neural Networks]().
