@@ -1,12 +1,9 @@
-
-![](http://img.shields.io/badge/stability-stable-orange.svg?style=flat)
-[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+> 🚧 This project is still under development
 
 # Nav-Prediction 
 This repository provides the code used in our paper [Predicting Navigational Performance of Obstacle Avoidance Approaches Using Deep Neural Networks]().
 It provides tools to record navigation metrics and predict the navigation performance of planners. [Link to demo video.](https://drive.google.com/file/d/1xCTtjEbTU5NXrfO4iZkjEdgVRJIdMAjv/view?usp=share_link)
-
+To run this tool the following Arena Benchmark infrastructure is required: https://github.com/ignc-research/nav-prediction.
 
 - [Training Pipeline](#training-pipeline)
 - [Running the Pipeline](#running-the-pipeline)
@@ -17,7 +14,7 @@ It provides tools to record navigation metrics and predict the navigation perfor
 
 ---
 ## Training Pipeline
-<img src="/docs/imgs/trainning_pipeline.png">
+![trainning_pipeline](https://github.com/ik78evah/arena-nav-prediction/assets/73646817/48ffbfc8-160b-4c66-bb5b-26fa75a01a9b)
 Our pipeline consists of four main modules and neural networks:
 
 - Map-Generator: 
