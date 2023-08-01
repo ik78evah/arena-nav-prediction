@@ -1,7 +1,3 @@
-![](http://img.shields.io/badge/stability-stable-orange.svg?style=flat)
-[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
-[![support level: consortium / vendor](https://img.shields.io/badge/support%20level-consortium%20/%20vendor-brightgreen.svg)](http://rosindustrial.org/news/2016/10/7/better-supporting-a-growing-ros-industrial-software-platform)
-
 > 🚧 This project is still under development
 
 # Nav-Prediction 
