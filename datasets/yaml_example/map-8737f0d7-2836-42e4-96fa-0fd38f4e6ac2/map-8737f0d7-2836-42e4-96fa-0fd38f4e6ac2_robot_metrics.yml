@@ -1,0 +1,4 @@
+local_planner: rlca
+robot_max_speed: 0.22
+robot_model: burger
+robot_radius: 0.113
